@@ -15,3 +15,7 @@ This project implements a TCP client-server architecture in Python, demonstratin
 ### Server
 ```bash
 python server.py
+
+### Client
+```bash
+python client.py
